@@ -10,6 +10,8 @@ public class Confirm003 {
 		System.out.println("This is my first commit - MavenProjects");
 		
 		System.out.println("ok");
+		
+		System.out.println("003");
 	}
 
 
